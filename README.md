@@ -6,6 +6,13 @@ Proiectul are ca obiectiv final crearea unui joc de strategie multiplayer care v
 
 ![img_3](Readme_Images/img_3.bmp)
 ![img_5](Readme_Images/img_5.bmp)
+
+
+
+https://github.com/Bogadan/Unity-multiplayer-RTS-prototype/assets/139983368/c58255ea-6cc0-49a3-9636-50d0bc8315e0
+
+
+
 ![img_6](Readme_Images/img_6.bmp)
 ![img_1](Readme_Images/img_1.bmp)
 ![img_2](Readme_Images/img_2.bmp)
